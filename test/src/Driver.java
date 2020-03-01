@@ -6,7 +6,7 @@ public class Driver {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello, Hello, Hello we are using Git!");
+		System.out.println("whats wrong?");
 		
 		ArrayList<String> cars = new ArrayList<String>() ;
 		
